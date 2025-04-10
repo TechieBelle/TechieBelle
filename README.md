@@ -56,7 +56,7 @@
 [<img align="left" alt="Folashade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/techie_belle
-[youtube]: https://www.youtube.com/Techie_Belle
+[youtube]: http://www.youtube.com/@Techie_Belle
 [Instagram]: https://www.instagram.com/folashadeyemi
 [linkedin]: https://www.linkedin.com/folashadebello
 
