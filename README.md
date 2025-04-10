@@ -58,5 +58,5 @@
 [twitter]: https://twitter.com/techie_belle
 [youtube]: http://www.youtube.com/@Techie_Belle
 [Instagram]: https://www.instagram.com/folashadeyemi
-[linkedin]: www.linkedin.com/in/folashadebello
+[linkedin]: https://www.linkedin.com/in/folashadebello
 
