@@ -1,24 +1,8 @@
-<h1>Hi, I'm Folashade! <br/><a href=//https://github.com/TechieBelle">UI/UX Designer</a>, <a href="https://www.linkedin.com/in/folashadebello/">Full-Stack Developer</a>, <a a href="https://www.linkedin.com/in/folashadebello/">Software Engineer</a></h1>
+<h1>Hi, I'm Folashade!   <a a href="https://www.linkedin.com/in/folashadebello/">Software Engineer</a></h1>
 
-<h2>👨‍💻 Full Stack Projects:</h2>
 
 
  
-     <h2>👨‍💻Design Projects:</h2>
-    
-
-    
-    <h2>👨‍💻Frontend Projects:</h2>
-    
-
-    
- <h2>👨‍💻Backend Projects:</h2>
-    
-
-<h2>📺 My YouTube Videos</h2>
-
-- [How to get into Software Engineering Starting From Zero]
-- [A Day in the Life of a Software Engineering student](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
