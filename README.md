@@ -8,9 +8,7 @@ I’m Folashade Bello Blessing, a computer science student and aspiring software
 
 My dream? To become a skilled software engineer who not only builds great products but also helps others grow in their journey. Whether it’s through problem-solving, collaboration, or mentorship, I’m here to create, learn, and make an impact, one line of code at a time.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+
 - 📫 How to reach me: folashadebello.b@gmail.com
 
 
@@ -23,19 +21,7 @@ My dream? To become a skilled software engineer who not only builds great produc
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
