@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I’m Folashade Bello Blessing, a computer science student and aspiring software engineer passionate about building tech solutions that make a real impact. I’m currently diving deep into full-stack development, with a growing love for web development, database management, and UI/UX design. Every day, I push myself to learn, experiment, and refine my skills in Python, JavaScript, C++, and digital design—because I believe that technology has the power to change lives.
+I’m Folashade Bello Blessing, a computer science student and aspiring software engineer passionate about building tech solutions that make a real impact. I’m currently diving deep into full-stack development, with a growing love for web development, database management, and UI/UX design. Every day, I push myself to learn, experiment, and refine my skills in Python, JavaScript, C++, and digital design because I believe that technology has the power to change lives.
 
 My dream? To become a skilled software engineer who not only builds great products but also helps others grow in their journey. Whether it’s through problem-solving, collaboration, or mentorship, I’m here to create, learn, and make an impact, one line of code at a time.
 
